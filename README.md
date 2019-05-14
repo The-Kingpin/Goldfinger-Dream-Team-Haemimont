@@ -1,2 +1,5 @@
-# Goldfinger-Dream-Team-Haemimont
-Web application for displaying hazards and risk in all regions around the world.
+# Goldfinger Haemimont Project
+
+Goldfinger web application for hazard and risk management
+
+https://trello.com/b/BbRhOShj/goldfinger-project

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ActivityServiceImplTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2019-05-06T18:42:43" hostname="Veny" time="0.357">
+  <properties/>
+  <testcase name="GetActivityFourthSearchType_ReturnCorrectCount" classname="ActivityServiceImplTest" time="0.196"/>
+  <testcase name="findByCriteriaShouldRunFindPerfectOnce" classname="ActivityServiceImplTest" time="0.051"/>
+  <testcase name="addActivityShouldReturnTrue" classname="ActivityServiceImplTest" time="0.002"/>
+  <testcase name="GetActivityThirdSearchType_ReturnCorrectCount" classname="ActivityServiceImplTest" time="0.029"/>
+  <testcase name="GetActivityFirstSearchType_ReturnCorrectCount" classname="ActivityServiceImplTest" time="0.01"/>
+  <testcase name="findByCriteriaShouldRunFindPerfectKeyValueOnce" classname="ActivityServiceImplTest" time="0.005"/>
+  <testcase name="findByCriteriaShouldReturnFullMatch" classname="ActivityServiceImplTest" time="0.006"/>
+  <testcase name="findByCriteriaShouldRunFindFullKeyValueOnce" classname="ActivityServiceImplTest" time="0.005"/>
+  <testcase name="GetActivitySecondSearchType_ReturnCorrectCount" classname="ActivityServiceImplTest" time="0.007"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
